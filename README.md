@@ -1,9 +1,7 @@
 <div align="center">
 <img src="assets/hero.svg" width="100%" alt="Deepika Jangid — thoughtful interfaces, useful applications" />
 <br/><br/>
-<a href="https://github.com/DeepikaJangid?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_WORK-C9B7F4?style=for-the-badge&amp;logo=github&amp;logoColor=211B30" alt="Explore repositories" /></a>
-&nbsp;
-<a href="https://ishop-vercel.vercel.app"><img src="https://img.shields.io/badge/ISHOP_LIVE_DEMO-FFB49C?style=for-the-badge&amp;logo=vercel&amp;logoColor=211B30" alt="iShop demo" /></a>
+<a href="https://github.com/DeepikaJangid?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_WORK-C9B7F4?style=for-the-badge&amp;logo=github&amp;logoColor=211B30" alt="Explore repositories" /></a>
 <br/><br/>
 <sub>A small collection of things I build, explore, and improve.</sub>
 </div>

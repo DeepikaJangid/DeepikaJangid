@@ -20,10 +20,10 @@
 
 ### 01 / Selected Builds
 
-<a href="https://github.com/DeepikaJangid/iShop"><img src="assets/shop.svg?v=original-dark-4" width="49%" alt="iShop — full-stack e-commerce project" /></a>
-<a href="https://github.com/DeepikaJangid/Financial-Record-System"><img src="assets/finance.svg?v=original-dark-4" width="49%" alt="Financial Record System" /></a>
-<a href="https://github.com/DeepikaJangid/Smart-Task-Manager"><img src="assets/tasks.svg?v=original-dark-4" width="49%" alt="Smart Task Manager" /></a>
-<a href="https://github.com/DeepikaJangid/Blinkit"><img src="assets/blinkit.svg?v=original-dark-4" width="49%" alt="Blinkit storefront UI" /></a>
+<a href="https://github.com/DeepikaJangid/iShop"><img src="https://raw.githubusercontent.com/DeepikaJangid/DeepikaJangid/14fd62b1db15489f4f4548a59e8e502451629042/assets/shop.svg" width="49%" alt="iShop — full-stack e-commerce project" /></a>
+<a href="https://github.com/DeepikaJangid/Financial-Record-System"><img src="https://raw.githubusercontent.com/DeepikaJangid/DeepikaJangid/14fd62b1db15489f4f4548a59e8e502451629042/assets/finance.svg" width="49%" alt="Financial Record System" /></a>
+<a href="https://github.com/DeepikaJangid/Smart-Task-Manager"><img src="https://raw.githubusercontent.com/DeepikaJangid/DeepikaJangid/14fd62b1db15489f4f4548a59e8e502451629042/assets/tasks.svg" width="49%" alt="Smart Task Manager" /></a>
+<a href="https://github.com/DeepikaJangid/Blinkit"><img src="https://raw.githubusercontent.com/DeepikaJangid/DeepikaJangid/14fd62b1db15489f4f4548a59e8e502451629042/assets/blinkit.svg" width="49%" alt="Blinkit storefront UI" /></a>
 
 <br/>
 

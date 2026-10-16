@@ -8,6 +8,16 @@
 
 <br/>
 
+### Featured / Employee Management System
+
+<a href="https://DeepikaJangid.github.io/EMS-Showcase/"><img src="https://raw.githubusercontent.com/DeepikaJangid/EMS-Showcase/main/preview.svg" width="100%" alt="EMS — privacy-safe showcase with fictional data" /></a>
+
+**[Explore the interactive preview ↗](https://DeepikaJangid.github.io/EMS-Showcase/)** · [About the project](https://github.com/DeepikaJangid/EMS-Showcase)
+
+<sub>Static showcase · Fictional data · Full application source stays private.</sub>
+
+<br/>
+
 ### 01 / Selected Builds
 
 <a href="https://github.com/DeepikaJangid/iShop"><img src="assets/shop.svg" width="49%" alt="iShop — full-stack e-commerce project" /></a>

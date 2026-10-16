@@ -5,7 +5,7 @@
 <g font-family="Segoe UI,Arial,sans-serif"><circle cx="62" cy="49" r="5" fill="#ffb49c"/><text x="78" y="55" fill="#d6c9ef" font-size="14" letter-spacing="3">DEEPIKA / THE WORKSPACE</text><text x="1208" y="55" text-anchor="end" fill="#9a8dac" font-size="13" letter-spacing="2">DESIGN + CODE</text>
 <text x="58" y="156" fill="#f8f2ea" font-size="76" font-weight="700" letter-spacing="-3">Deepika Jangid<tspan fill="#ffb49c">.</tspan></text>
 <text x="62" y="211" fill="#c9b7f4" font-size="31">Thoughtful interfaces.</text><text x="62" y="253" fill="#f8f2ea" font-size="31">Useful applications.</text>
-<text x="63" y="305" fill="#aaa0b8" font-size="17">JavaScript developer building for the web.</text>
+<text x="63" y="305" fill="#aaa0b8" font-size="17">Full-Stack Developer building for the web.</text>
 <rect x="62" y="352" width="307" height="42" rx="21" fill="#c7b1f6"/><text x="84" y="379" fill="#211b30" font-size="14" font-weight="700" letter-spacing="1">REACT / NEXT.JS / NODE / MONGODB</text>
 <g transform="translate(860 110)"><rect x="0" y="0" width="330" height="258" rx="20" fill="#181620" stroke="#514360"/><path d="M0 46H330" stroke="#514360"/><circle cx="23" cy="23" r="5" fill="#ffb49c"/><circle cx="42" cy="23" r="5" fill="#c9b7f4"/><circle cx="61" cy="23" r="5" fill="#a7c9bd"/>
 <g font-family="Consolas,monospace" font-size="18"><text x="26" y="90" fill="#a299b2">const <tspan fill="#f5eadb">workspace</tspan> = {</text><text x="45" y="132" fill="#c9b7f4">craft: <tspan fill="#a7c9bd">'interfaces'</tspan>,</text><text x="45" y="170" fill="#c9b7f4">build: <tspan fill="#a7c9bd">'applications'</tspan>,</text><text x="45" y="208" fill="#c9b7f4">keep: <tspan fill="#ffb49c">'creating'</tspan></text><text x="26" y="240" fill="#a299b2">};</text></g></g>

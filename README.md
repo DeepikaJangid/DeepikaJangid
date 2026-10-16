@@ -1,16 +1,16 @@
 <div align="center">
-<img src="assets/hero.svg?v=lavender-match-2" width="100%" alt="Deepika Jangid — thoughtful interfaces, useful applications" />
+<img src="assets/hero.svg?v=cormorant-3" width="100%" alt="Deepika Jangid — thoughtful interfaces, useful applications" />
 <br/><br/>
-<a href="https://github.com/DeepikaJangid?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_WORK-C9B7F4?style=for-the-badge&amp;logo=github&amp;logoColor=211B30" alt="Explore repositories" /></a>
+[Browse repositories](https://github.com/DeepikaJangid?tab=repositories)
 <br/><br/>
-<sub>A small collection of things I build, explore, and improve.</sub>
+<sub>A selection of my web development projects.</sub>
 </div>
 
 <br/>
 
 ### Featured / Employee Management System
 
-<a href="https://DeepikaJangid.github.io/EMS-Showcase/"><img src="https://raw.githubusercontent.com/DeepikaJangid/EMS-Showcase/main/preview.svg" width="100%" alt="EMS — privacy-safe showcase with fictional data" /></a>
+<a href="https://DeepikaJangid.github.io/EMS-Showcase/"><img src="https://raw.githubusercontent.com/DeepikaJangid/EMS-Showcase/main/preview.svg?v=cormorant-3" width="100%" alt="EMS — privacy-safe showcase with fictional data" /></a>
 
 **[Explore the interactive preview ↗](https://DeepikaJangid.github.io/EMS-Showcase/)** · [About the project](https://github.com/DeepikaJangid/EMS-Showcase)
 
@@ -20,10 +20,10 @@
 
 ### 01 / Selected Builds
 
-<a href="https://github.com/DeepikaJangid/iShop"><img src="assets/shop.svg?v=lavender-match-2" width="49%" alt="iShop — full-stack e-commerce project" /></a>
-<a href="https://github.com/DeepikaJangid/Financial-Record-System"><img src="assets/finance.svg?v=lavender-match-2" width="49%" alt="Financial Record System" /></a>
-<a href="https://github.com/DeepikaJangid/Smart-Task-Manager"><img src="assets/tasks.svg?v=lavender-match-2" width="49%" alt="Smart Task Manager" /></a>
-<a href="https://github.com/DeepikaJangid/Blinkit"><img src="assets/blinkit.svg?v=lavender-match-2" width="49%" alt="Blinkit storefront UI" /></a>
+<a href="https://github.com/DeepikaJangid/iShop"><img src="assets/shop.svg?v=cormorant-3" width="49%" alt="iShop — full-stack e-commerce project" /></a>
+<a href="https://github.com/DeepikaJangid/Financial-Record-System"><img src="assets/finance.svg?v=cormorant-3" width="49%" alt="Financial Record System" /></a>
+<a href="https://github.com/DeepikaJangid/Smart-Task-Manager"><img src="assets/tasks.svg?v=cormorant-3" width="49%" alt="Smart Task Manager" /></a>
+<a href="https://github.com/DeepikaJangid/Blinkit"><img src="assets/blinkit.svg?v=cormorant-3" width="49%" alt="Blinkit storefront UI" /></a>
 
 <br/>
 
@@ -48,5 +48,5 @@ Smaller builds and experiments — where the fundamentals get practice.
 
 ---
 <div align="center">
-<sub><b>DESIGN WITH INTENT. BUILD WITH CURIOSITY.</b><br/><br/>Deepika Jangid · Thanks for stopping by.</sub>
+<sub><b>DEEPIKA JANGID</b><br/><br/>Deepika Jangid · Thanks for stopping by.</sub>
 </div>

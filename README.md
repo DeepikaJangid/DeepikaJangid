@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/hero.svg?v=original-dark-4" width="100%" alt="Deepika Jangid — thoughtful interfaces, useful applications" />
+<img src="https://raw.githubusercontent.com/DeepikaJangid/DeepikaJangid/c92dc715b2edf7287838c50f0355932815a42b98/assets/hero.svg" width="100%" alt="Deepika Jangid — thoughtful interfaces, useful applications" />
 <br/><br/>
 <a href="https://github.com/DeepikaJangid?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_WORK-C9B7F4?style=for-the-badge&amp;logo=github&amp;logoColor=211B30" alt="Explore repositories" /></a>
 <br/><br/>

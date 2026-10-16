@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/hero.svg" width="100%" alt="Deepika Jangid — thoughtful interfaces, useful applications" />
+<img src="assets/hero.svg?v=lavender-match-2" width="100%" alt="Deepika Jangid — thoughtful interfaces, useful applications" />
 <br/><br/>
 <a href="https://github.com/DeepikaJangid?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_WORK-C9B7F4?style=for-the-badge&amp;logo=github&amp;logoColor=211B30" alt="Explore repositories" /></a>
 <br/><br/>
@@ -20,10 +20,10 @@
 
 ### 01 / Selected Builds
 
-<a href="https://github.com/DeepikaJangid/iShop"><img src="assets/shop.svg" width="49%" alt="iShop — full-stack e-commerce project" /></a>
-<a href="https://github.com/DeepikaJangid/Financial-Record-System"><img src="assets/finance.svg" width="49%" alt="Financial Record System" /></a>
-<a href="https://github.com/DeepikaJangid/Smart-Task-Manager"><img src="assets/tasks.svg" width="49%" alt="Smart Task Manager" /></a>
-<a href="https://github.com/DeepikaJangid/Blinkit"><img src="assets/blinkit.svg" width="49%" alt="Blinkit storefront UI" /></a>
+<a href="https://github.com/DeepikaJangid/iShop"><img src="assets/shop.svg?v=lavender-match-2" width="49%" alt="iShop — full-stack e-commerce project" /></a>
+<a href="https://github.com/DeepikaJangid/Financial-Record-System"><img src="assets/finance.svg?v=lavender-match-2" width="49%" alt="Financial Record System" /></a>
+<a href="https://github.com/DeepikaJangid/Smart-Task-Manager"><img src="assets/tasks.svg?v=lavender-match-2" width="49%" alt="Smart Task Manager" /></a>
+<a href="https://github.com/DeepikaJangid/Blinkit"><img src="assets/blinkit.svg?v=lavender-match-2" width="49%" alt="Blinkit storefront UI" /></a>
 
 <br/>
 

@@ -1,47 +1,44 @@
 <div align="center">
-
-# Deepika Jangid
-### JavaScript Developer · Web Applications · Responsive Interfaces
-
-Building practical web projects, from interactive interfaces to full-stack applications.
-
-[Explore My Projects](https://github.com/DeepikaJangid?tab=repositories) · [Try iShop](https://ishop-vercel.vercel.app)
-
+<img src="assets/hero.svg" width="100%" alt="Deepika Jangid — thoughtful interfaces, useful applications" />
+<br/><br/>
+<a href="https://github.com/DeepikaJangid?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_WORK-C9B7F4?style=for-the-badge&amp;logo=github&amp;logoColor=211B30" alt="Explore repositories" /></a>
+&nbsp;
+<a href="https://ishop-vercel.vercel.app"><img src="https://img.shields.io/badge/ISHOP_LIVE_DEMO-FFB49C?style=for-the-badge&amp;logo=vercel&amp;logoColor=211B30" alt="iShop demo" /></a>
+<br/><br/>
+<sub>A small collection of things I build, explore, and improve.</sub>
 </div>
 
----
+<br/>
 
-## Featured Work
+### 01 / Selected Builds
 
-| Project | Focus | Source |
+<a href="https://github.com/DeepikaJangid/iShop"><img src="assets/shop.svg" width="49%" alt="iShop — full-stack e-commerce project" /></a>
+<a href="https://github.com/DeepikaJangid/Financial-Record-System"><img src="assets/finance.svg" width="49%" alt="Financial Record System" /></a>
+<a href="https://github.com/DeepikaJangid/Smart-Task-Manager"><img src="assets/tasks.svg" width="49%" alt="Smart Task Manager" /></a>
+<a href="https://github.com/DeepikaJangid/Blinkit"><img src="assets/blinkit.svg" width="49%" alt="Blinkit storefront UI" /></a>
+
+<br/>
+
+### 02 / The Toolbox
+
+| The Interface | Behind the Interface | The Workflow |
 | :--- | :--- | :--- |
-| **iShop** | E-commerce application with client and server modules | [Repository →](https://github.com/DeepikaJangid/iShop) |
-| **Financial Record System** | Financial record management | [Repository →](https://github.com/DeepikaJangid/Financial-Record-System) |
-| **Smart Task Manager** | Task management with JavaScript | [Repository →](https://github.com/DeepikaJangid/Smart-Task-Manager) |
-| **Blinkit** | Grocery storefront UI built with Vite | [Repository →](https://github.com/DeepikaJangid/Blinkit) |
-| **Little Hearts — NGO** | Responsive event website | [Repository →](https://github.com/DeepikaJangid/Little-Hearts---NGO) |
+| JavaScript · React · Next.js | Node.js · Express | Git · GitHub |
+| HTML · CSS · Bootstrap · Vite | MongoDB · Mongoose | Client/server architecture |
 
-## Toolbox
+<br/>
 
-**Frontend**  
-JavaScript · React · Next.js · HTML · CSS · Bootstrap · Vite
+### 03 / The Sketchbook
 
-**Backend & Data**  
-Node.js · Express · MongoDB · Mongoose
+Smaller builds and experiments — where the fundamentals get practice.
 
-**Workflow**  
-Git · GitHub · Client/server architecture
+**Responsive spaces** &nbsp; [NGO events ↗](https://github.com/DeepikaJangid/Little-Hearts---NGO) · [Bakery ↗](https://github.com/DeepikaJangid/WsCubeTech-Responsive-Bakery-Site) · [Bootstrap layouts ↗](https://github.com/DeepikaJangid/Tutorial-Freak-Responsive)
 
-## Explore by Category
+**Under the hood** &nbsp; [DOM events ↗](https://github.com/DeepikaJangid/DOM-Event) · [CSS exercises ↗](https://github.com/DeepikaJangid/WsCubeTech-Tasks) · [Git practice ↗](https://github.com/DeepikaJangid/GIt-Start)
 
-**Applications** — [iShop](https://github.com/DeepikaJangid/iShop) · [Financial Records](https://github.com/DeepikaJangid/Financial-Record-System) · [Task Manager](https://github.com/DeepikaJangid/Smart-Task-Manager)
-
-**Interfaces** — [Blinkit](https://github.com/DeepikaJangid/Blinkit) · [NGO Events](https://github.com/DeepikaJangid/Little-Hearts---NGO) · [Bakery](https://github.com/DeepikaJangid/WsCubeTech-Responsive-Bakery-Site)
-
-**Learning & Practice** — [Bootstrap Layouts](https://github.com/DeepikaJangid/Tutorial-Freak-Responsive) · [CSS Exercises](https://github.com/DeepikaJangid/WsCubeTech-Tasks) · [DOM Events](https://github.com/DeepikaJangid/DOM-Event)
+<br/>
 
 ---
-
 <div align="center">
-Thanks for visiting. Explore a repository to see the code and project details.
+<sub><b>DESIGN WITH INTENT. BUILD WITH CURIOSITY.</b><br/><br/>Deepika Jangid · Thanks for stopping by.</sub>
 </div>
